@@ -1,9 +1,17 @@
 AI
+
 人工智能
+
 大模型
+
 LLM
+
 GPT
+
 机器学习
+
 深度学习
+
 ChatGPT
+
 AIGC
